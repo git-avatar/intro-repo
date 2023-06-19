@@ -1,1 +1,2 @@
 text for nix in file1
+Changes are made
